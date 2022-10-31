@@ -20,7 +20,7 @@ section {
     position: absolute;
     width: 300px;
     aspect-ratio: 1;
-    background-image: url('./Meu-Portfolio/Imagens/priscilla.jpeg');
+    background-image: url('Imagens/priscilla.jpeg');
     background-position: center;
     background-size: cover;
     right: 80px;
