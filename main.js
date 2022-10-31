@@ -1,3 +1,4 @@
+
 /*--- menu mobile ---*/
 const MENU = document.querySelector('#menu-mobile')
 const ICONE_MENU = document.querySelector('.icone-menu')
@@ -27,7 +28,7 @@ for(let i = 0; i < LISTA_HABILIDADES.length; i++) {
 }
 
 const descricoesHabilidades = {
-    'habilidade-ux': 'UX Writing, Textos Simples e Conversacionais',
+    'habilidade-uxw': 'UX Writing, Textos Simples e Conversacionais',
     'habilidade-dialogflow': 'Dialog Flow',
     'habilidade-voiceflow': 'Voice Flow',
     'habilidade-html-css': 'HTML e CSS',
@@ -62,11 +63,11 @@ for(let i = 0; i < LISTA_INTERESSES.length; i++) {
 }
 
 const descricoesInteresses = {
-    'interesse-chatbot': 'Chatbots, Voicebots e plataformas conversacionais',
-    'interesse-documentos': 'Documentos Simples e Fáceis de Ler (Plain Languagem e Design Law)',
-    'interesse-programacao': 'Programação Back e Front End e Programação Low Code',
-    'interesse-ux-ui': 'Experiência do Usuário (UX e UI)',
-    'interesse-cafe': 'Um cafézinho bem feito alegra qualquer pessoa'
+    'interesse-chatbot': 'Chatbots, Voicebots e plataformas conversacionais. Quer tc?',
+    'interesse-documentos': 'Documentos Simples e Fáceis de Ler (Plain Languagem e Design Law). Quem não gosta de um texto simples, bonito e fácil de ler e entender, né?!',
+    'interesse-programacao': 'Programação Back e Front End e Programação Low Code. A tecnologia torna as coisas possíveis. As pessoas tornam as coisas incríveis! ',
+    'interesse-ux-ui': 'Experiência do Usuário (UX e UI). Eu acredito em um mundo simples e inclusivo. E você? ^^',
+    'interesse-cafe': 'Um cafézinho bem feito alegra qualquer pessoa, né?!'
 }
 
 function mostraTexto (idInteresse) {

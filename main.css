@@ -24,7 +24,7 @@ main div {
     display: inline-block;
     width: 480px;
     vertical-align: top;
-    position: absolute;
+    position: relative;
     right: 0;
     top: 48px;
 }
@@ -38,7 +38,7 @@ main div {
 .background-texto {
     background-color: rgb(82, 4, 56);
     box-shadow: 1px 1px 16px rgba(82, 4, 56, 0.5);
-    color: rgb(255, 229, 229);
+    color: rgb(160, 216, 207);
     padding: 18px;
     display: inline-block;
     border-radius: 8px;
@@ -49,7 +49,7 @@ main div {
 }
 
 .background-texto a {
-    color: rgb(255, 229, 229);
+    color: rgb(160, 216, 207);
 }
 
 .margem-caixas {
@@ -57,7 +57,7 @@ main div {
 }
 
 .icones-habilidades {
-    width: 80px;
+    width: 90px;
     transition: 0.7s transform;
 }
 
@@ -71,7 +71,7 @@ main div {
 }
 
 .icones-interesses {
-    width: 80px;
+    width: 90px;
     transition: 0.7s transform;
 }
 
@@ -117,7 +117,18 @@ main div {
     .background-texto {
         font-size: 13px;
         width: 100%;
-        height: 88px;
+
+    }
+    #formacao-academica {
+        height: 80px;
+    }
+
+    #formacao-alternativa {
+        height: 140px;
+    }
+
+    #experiencias-background {
+        height: 350px;
     }
 
     .margem-caixas {
@@ -125,10 +136,10 @@ main div {
     }
 
     .icones-habilidades {
-        width: 60px;
+        width: 90px;
     }
     
     .icones-interesses {
-        width: 60px;
+        width: 90px;
     }
 }

@@ -5,7 +5,7 @@ footer {
 }
 
 footer, a {
-    color: rgb(277, 153, 239);
+    color: rgb(241, 243, 242);
 }
 
 .footer-informacoes {
@@ -17,6 +17,7 @@ footer, a {
     display: inline-block;
     vertical-align: top;
     margin-top: 10px;
+    font-size: 48x;
 }
 
 @media screen and (max-width:1040px) {
