@@ -1,11 +1,11 @@
 main {
-    background: rgb(223, 223, 220);
+    background: rgb(255, 255, 255);
     padding: 48px 0;
     color: rgb(82, 4, 56);
 }
 
 main div {
-    width: 1020px;
+    width: 1040px;
     margin: 0 auto;    
 }
 
@@ -14,10 +14,11 @@ main div {
 }
 
 .foto-sobre-mim {
-    width: 400px;
+    width: 300px;
     display: inline-block;
     border-radius: 8px;
     box-shadow: 1px 1px 16px rgba(82, 4, 56, 0.2);
+    position: relative;
 }
 
 .texto-sobre-mim {
@@ -38,22 +39,42 @@ main div {
 .background-texto {
     background-color: rgb(82, 4, 56);
     box-shadow: 1px 1px 16px rgba(82, 4, 56, 0.5);
-    color: rgb(160, 216, 207);
+    color: rgb(255, 255, 255);
     padding: 18px;
     display: inline-block;
     border-radius: 8px;
     width: 45%;
     box-sizing: border-box;
     vertical-align: top;
-    height: 100px;
 }
 
 .background-texto a {
-    color: rgb(160, 216, 207);
+    color: rgb(255, 255, 255);
 }
 
 .margem-caixas {
     margin: 2.3%;
+}
+
+.background-texto {
+    font-size: 16px;
+    width: 100%;
+}
+
+#formacao-academica {
+    height: 60px;
+}
+
+#formacao-alternativa {
+    height: 80px;
+}
+
+#experiencias-background {
+    height: 370px;
+}
+
+.margem-caixas {
+    margin: 0 0 2.3% 0;
 }
 
 .icones-habilidades {
@@ -88,6 +109,7 @@ main div {
     main {
         padding: 16px 0;
     }
+
     main div {
         width: 340px;
         padding: 8px;
@@ -117,29 +139,25 @@ main div {
     .background-texto {
         font-size: 13px;
         width: 100%;
+    }    
 
-    }
     #formacao-academica {
         height: 80px;
     }
-
+    
     #formacao-alternativa {
         height: 140px;
     }
-
+    
     #experiencias-background {
         height: 350px;
     }
-
-    .margem-caixas {
-        margin: 0 0 2.3% 0;
-    }
-
+   
     .icones-habilidades {
-        width: 90px;
+        width: 60px;
     }
     
     .icones-interesses {
-        width: 90px;
+        width: 60px;
     }
 }

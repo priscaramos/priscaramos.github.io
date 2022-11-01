@@ -17,7 +17,7 @@ footer, a {
     display: inline-block;
     vertical-align: top;
     margin-top: 10px;
-    font-size: 48x;
+    font-size: 40px;
 }
 
 @media screen and (max-width:1040px) {
