@@ -1,0 +1,18 @@
+https://trello.com/b/0PQ8FZg9/meu-portf%C3%B3lio-web-projeto-pr%C3%A1tico-alura-include
+
+https://github.com/milenaemmert/meu-portfolio-web-v2
+
+https://milenaemmert.github.io/meu-portfolio-web/
+
+https://www.figma.com/file/MxiiEbRSemGcryHXRn1NS0/Projeto-Pr%C3%A1tico---Alura-Include?node-id=0%3A1
+
+Crie ou acesse sua conta no Figma
+Faça uma cópia: segurando o Ctrl selecione os frames #Mobile, #Menu Mobile e #Desktop e copie (Ctrl+C)
+No menu de navegação, clique no ícone F > File > New design file (irá abrir uma nova aba com um espaço vazio)
+Cole (Ctrl+V) o que você copiou e agora você terá uma versão do projeto onde poderá editar, trocar as cores e a disposição dos elementos para ver como ficariam suas ideias!
+
+https://www.youtube.com/playlist?list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x
+
+
+Link para Entregar:
+https://lp.alura.com.br/alura-include-entregas
