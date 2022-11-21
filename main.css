@@ -26,7 +26,7 @@ main div {
     width: 480px;
     vertical-align: top;
     position: relative;
-    right: 0;
+    left: 48px;
     top: 48px;
 }
 
